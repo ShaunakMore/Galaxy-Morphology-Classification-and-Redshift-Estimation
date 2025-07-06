@@ -1,6 +1,5 @@
-Here's the complete `README.md` file you can copy-paste directly:
 
-```markdown
+
 # Galaxy Morphology Classification and Redshift Estimation
 
 ## Project Overview
