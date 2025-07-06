@@ -26,8 +26,8 @@ Trained on the Galaxy ML dataset for automated astronomical analysis.
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/galaxy-ml-project.git
-cd galaxy-ml-project
+git clone https://github.com/ShaunakMore/Galaxy-Morphology-Classification-and-Redshift-Estimation.git
+cd Galaxy-Morphology-Classification-and-Redshift-Estimation
 
 # Install dependencies
 pip install -r requirements.txt
